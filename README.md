@@ -14,7 +14,7 @@
 
 - 👋 I’m **Raja Prabhu**, *Mechatronics Engineer*.
 - ❤️ I’m interested in *Programming, Designing and Electroincs*.
-- 💗 I’m currently learning **```bash```**
+- 💗 I’m currently learning **```Machine Learning```**
 - 📫 [lockyou@tutanota.com](mailto:lockyou@tutanota.com)
 - 🥰 *Cuber, Pianist, Pentester & Footballer*.
 
