@@ -42,7 +42,7 @@
 # Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
-[<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Deus_Linux.png" />](https://www.google.com/search?&q=Linux)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />](https://www.google.com/search?&q=Github)
 [<img align="left" alt="Gimp" width="26px" src="https://www.europadruck.com/blog/wp-content/uploads/2014/09/gimp-logo.png" />](https://www.google.com/search?&q=Gimp)
@@ -50,6 +50,7 @@
 [<img align="left" alt="Photoshop" width="26px" src="https://lacphoto.org/berenice/wp-content/uploads/Photoshop-Logo_Square.jpg" />](https://www.google.com/search?&q=Photoshop)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 
+![](https://hit.yhype.me/github/profile?user_id=80645023)
 
 <!--- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
