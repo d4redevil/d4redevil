@@ -14,7 +14,7 @@
 
 - 👋 I’m **Raja Prabhu**, *Mechatronics Engineer*.
 - ❤️ I’m interested in *Programming, Designing and Electroincs*.
-- 📫 [lockyou@tutanota.com](mailto:lockyou@tutanota.com)
+- 📫 [rajaprabu2k@gmail.com](mailto:rajaprabu2k@gmail.com)
 
 
 <br />
@@ -22,9 +22,7 @@
 # Also Follow me on:
 
 [<img align="left" alt="Gmail" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"/>](mailto:wagbig007@gmail.com)
-[<img align="left" alt="instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>](https://instagram.com/x.x_daredevil_x.x)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />](https://github.com/d4redevil)
-[<img align="left" alt="Snapchat" width="26px" src="https://www.businessofapps.com/wp-content/uploads/2015/01/snapchat-logo.jpg" />](https://www.snapchat.com/add/kingnessz)
 [<img align="left" alt="Hackerone" width="26px" src="https://media.trustradius.com/vendor-logos/1R/cU/SDN8WXRVGUMG-180x180.PNG" />](https://hackerone.com/d4redevil)
 
 <br/>
@@ -33,7 +31,6 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/cpp.svg" /> ](https://www.google.com/search?&q=c++)
 [<img align="left" alt="BASH" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/600px-Bash_Logo_Colored.svg.png" /> ](https://www.google.com/search?&q=bash)
-[<img align="left" alt="Arduino Programming Language" width="26px" src="https://www.redbytes.in/wp-content/uploads/2018/04/arduino-1-logo-png-transparent.png" /> ](https://www.google.com/search?&q=arduino+programming+language)
 
 <br />
 
